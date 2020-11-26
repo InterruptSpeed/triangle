@@ -1,7 +1,7 @@
 # triangle
 > sierpinski triangle image generator
 
-![Rust](https://github.com/InterruptSpeed/triangle/workflows/Rust/badge.svg)
+![build](https://github.com/InterruptSpeed/triangle/workflows/Rust/badge.svg)
 
 ## Table of contents
 * [General info](#general-info)
